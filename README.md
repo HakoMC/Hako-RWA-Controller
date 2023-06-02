@@ -1,0 +1,2 @@
+# Hako-RWA-Controller
+大まかな部分がコマンドまたはfunctionで動作する新たな鉄道アドオン制御システム
