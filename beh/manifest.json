@@ -1,0 +1,28 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hako RWA Controller §bV0.0.1-beta.1 §f[BEH]",
+    "description": "Created by Hako",
+    "version": [0, 0, 1],
+    "uuid": "89abb635-c5ab-4b6e-84bf-1bb74e82afa6",
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "data module",
+      "version": [0, 0, 1],
+      "uuid": "10b1566b-65a3-46aa-a2df-a63d0e789f01"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Hako"
+    ],
+    "url": "https://hako.lol",
+    "license": "Mozilla Public License Version 2.0",
+    "generated_with": {
+      "TokaTools-Manifest-Generator": ["1.9.1"]
+    }
+  }
+}
