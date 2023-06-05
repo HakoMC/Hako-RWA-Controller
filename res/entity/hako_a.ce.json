@@ -1,0 +1,25 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "hako:hako_a",
+            "materials": {
+                "default": "skeleton"
+            },
+            "textures": {
+                "default": "textures/entity/hako_a"
+            },
+            "geometry": {
+                "default": "geometry.hako_point",
+                "invisible": "geometry.hako_null"
+            },
+            "render_controllers": [
+                "controller.render.hako_point"
+            ],
+            "spawn_egg": {
+                "texture": "spawn_hako_a",
+                "texture_index": 0
+            }
+        }
+    }
+}

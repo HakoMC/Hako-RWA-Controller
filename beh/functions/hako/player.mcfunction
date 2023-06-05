@@ -1,0 +1,1 @@
+execute unless entity @e[tag=hako_p1,tag=hako_p2,tag=hako_p3,tag=hako_p4,tag=hako_p5,tag=hako_p6,tag=hako_p7,tag=hako_p8,tag=hako_p9,tag=hako_p10] execute as @p at @s run tag add @s hako_p1
