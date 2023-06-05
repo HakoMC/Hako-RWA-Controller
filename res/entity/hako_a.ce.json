@@ -17,7 +17,7 @@
                 "controller.render.hako_point"
             ],
             "spawn_egg": {
-                "texture": "spawn_hako_a",
+                "texture": "spawn_hako_point",
                 "texture_index": 0
             }
         }

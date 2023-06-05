@@ -1,0 +1,22 @@
+{
+    "format_version": "1.18.0",
+    "render_controllers": {
+        "controller.render.hako_point": {
+            "materials": [
+				{
+					"*": "Material.default"
+				}
+			],
+            "textures": [ "Texture.default" ],
+            "arrays": {
+                "geometries": {
+                    "Array.geometry":[
+                        "geometry.default",
+                        "geometry.invisible"
+                    ]
+                }
+            },
+            "geometry": "Array.geometry[query.variant]"
+        }
+    }
+}

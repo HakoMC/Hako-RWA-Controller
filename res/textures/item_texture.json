@@ -1,0 +1,13 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "spawn_hako_point": {
+            "textures": [
+                "textures/items/hako_a",
+                "textures/items/hako_b",
+                "textures/items/hako_c"
+            ]
+        }
+    }
+}
