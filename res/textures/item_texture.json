@@ -10,6 +10,13 @@
                 "textures/items/hako_st",
                 "textures/items/hako_ed"
             ]
+        },
+        "spawn_hako_car": {
+            "textures": [
+                "textures/items/hako_core",
+                "textures/items/hako_car_1",
+                "textures/items/hako_car_2"
+            ]
         }
     }
 }

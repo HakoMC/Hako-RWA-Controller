@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.hako_car",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-1, 10, -1],
+							"size": [2, 2, 2],
+							"uv": {
+								"north": {"uv": [30, 0], "uv_size": [2, 2]},
+								"east": {"uv": [30, 0], "uv_size": [2, 2]},
+								"south": {"uv": [30, 0], "uv_size": [2, 2]},
+								"west": {"uv": [30, 0], "uv_size": [2, 2]},
+								"up": {"uv": [32, 2], "uv_size": [-2, -2]},
+								"down": {"uv": [32, 2], "uv_size": [-2, -2]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

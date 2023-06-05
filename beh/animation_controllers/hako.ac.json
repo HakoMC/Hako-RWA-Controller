@@ -16,6 +16,20 @@
                     ]
                 }
             }
+        },
+        "controller.animation.hako_core": {
+            "states": {
+                "default": {
+                    "transitions": [
+                        {"run": "(1.0)"}
+                    ]
+                },
+                "run": {
+                    "on_entry": [
+                        "/tp ~~~ 0"
+                    ]
+                }
+            }
         }
     }
 }
