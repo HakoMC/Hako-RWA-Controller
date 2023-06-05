@@ -2,12 +2,12 @@
     "format_version": "1.8.0",
     "minecraft:client_entity": {
         "description": {
-            "identifier": "hako:hako_a",
+            "identifier": "hako:hako_c",
             "materials": {
                 "default": "phantom"
             },
             "textures": {
-                "default": "textures/entity/hako_a"
+                "default": "textures/entity/hako_c"
             },
             "geometry": {
                 "default": "geometry.hako_point",
@@ -18,7 +18,7 @@
             ],
             "spawn_egg": {
                 "texture": "spawn_hako_point",
-                "texture_index": 0
+                "texture_index": 2
             }
         }
     }

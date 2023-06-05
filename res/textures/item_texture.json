@@ -6,7 +6,9 @@
             "textures": [
                 "textures/items/hako_a",
                 "textures/items/hako_b",
-                "textures/items/hako_c"
+                "textures/items/hako_c",
+                "textures/items/hako_st",
+                "textures/items/hako_ed"
             ]
         }
     }

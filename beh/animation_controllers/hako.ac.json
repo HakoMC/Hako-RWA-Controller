@@ -1,0 +1,21 @@
+{
+    "format_version": "1.18.0",
+    "animation_controllers": {
+        "controller.animation.hako_point": {
+            "states": {
+                "default": {
+                    "transitions": [
+                        {"run": "(1.0)"}
+                    ]
+                },
+                "run":{
+                    "on_entry":[
+                        "/playsound random.click @p",
+                        "/event entity @s default",
+                        "/tp ~~~ 0"
+                    ]
+                }
+            }
+        }
+    }
+}
